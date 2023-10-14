@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#FF9E9E9E</color>
+
+
+
+
+    <color name="randomColor1">#FF5733</color>
+    <color name="randomColor2">#4CAF50</color>
+    <color name="randomColor3">#FFC107</color>
+    <color name="randomColor4">#2196F3</color>
+    <color name="randomColor5">#E91E63</color>
+    <color name="randomColor6">#673AB7</color>
+    <color name="randomColor7">#FF9800</color>
+    <color name="randomColor8">#795548</color>
+    <color name="randomColor9">#009688</color>
+    <color name="randomColor10">#8BC34A</color>
+    <color name="randomColor11">#FF5252</color>
+    <color name="randomColor12">#FFD700</color>
+    <color name="randomColor13">#00BCD4</color>
+    <color name="randomColor14">#FFA07A</color>
+    <color name="randomColor15">#3F51B5</color>
+    <color name="randomColor16">#CDDC39</color>
+    <color name="randomColor17">#9C27B0</color>
+    <color name="randomColor18">#607D8B</color>
+    <color name="randomColor19">#FFEB3B</color>
+    <color name="randomColor20">#FF5722</color>
+
+
+
+</resources>
